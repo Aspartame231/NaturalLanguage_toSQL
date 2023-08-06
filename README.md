@@ -1,6 +1,6 @@
 # NaturalLanguage to SQL Query
 
-![NaturalLanguage to SQL Query Logo](url_to_logo.png) <!-- If you have a logo, place its URL here -->
+<img align="right" alt="img" width="400" src="https://raw.githubusercontent.com/Aspartame231/NaturalLanguage_toSQL/main/sq.jpg" >
 
 NaturalLanguage to SQL Query is a project that enables users to convert natural language queries into SQL queries. It provides a user-friendly interface for querying databases using plain English sentences, making it easier for non-technical users to interact with databases and retrieve the desired information.
 
